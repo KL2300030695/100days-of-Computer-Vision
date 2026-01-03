@@ -9,7 +9,7 @@
 - Load an image from a file and resize it to a specific dimension.
 
 #### Day 3: Loading and Grayscale Conversion
-- Load an image from the URL [https://aibauchi.com.ng/logo.png](https://aibauchi.com.ng/logo.png) and convert it to grayscale.
+- Load an image from the URL [https://github.com/AIBauchi/.github/blob/main/profile/image.png](https://github.com/AIBauchi/.github/blob/main/profile/image.png) and convert it to grayscale.
 
 #### Day 4: Image Background Removal
 - Load the grayscale image from Day 3 and remove the image background.
